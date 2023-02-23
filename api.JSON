@@ -1,0 +1,62 @@
+[{"precio": "Estatura: 100 cm",
+        "edad": "15 años",
+        "id": 1,
+        "title": "Sonic",
+        "thumbnailUrl": "https://i.pinimg.com/550x/cf/a2/f2/cfa2f2e7130d5026a972c9af10631908.jpg"
+    },
+    {"precio": "Estatura: 100 cm",
+        "edad": "50 años",
+        "title": "Shadow",
+        "thumbnailUrl": "https://c-cl.cdn.smule.com/smule-gg-uw1-z-1/account/picture/4d/42/dcfb1d3b-871b-43b3-9597-5e4675e28057.jpg"
+    }, 
+    {"precio": "Estatura: 100 cm",
+        "edad": "12 años",
+        "title": "Amy Rose",
+        "thumbnailUrl": "https://i.pinimg.com/originals/00/ae/3c/00ae3c3c3d7a4b2a61c6573fa462c883.png"
+    }, 
+    {"precio": "Estatura: 100 cm",
+        "edad": "18 años",
+        "title": "Rouge",
+        "thumbnailUrl": "https://i.pinimg.com/originals/58/e8/77/58e877b0e96e4756534477a9d2b4da9e.jpg"
+    }, 
+    {"precio": "Estatura: 100 cm",
+        "edad": "16 años",
+        "title": "Blaze",
+        "thumbnailUrl": "https://64.media.tumblr.com/dc3027562fdb09c4c8f099396d69a554/2934abdb40c45166-a2/s1280x1920/9b5903319c3217389e739003d5862fa51510c007.png"
+    }, 
+    {"precio": "Estatura: 50 cm",
+        "edad": "8 años",
+        "title": "Tails",
+        "thumbnailUrl": "https://i.pinimg.com/474x/13/bf/a4/13bfa44d75a67e28e5f57e8d125b1e81.jpg"
+    }, 
+    {"precio": "Estatura: 100 cm",
+        "edad": "15 años",
+        "title": "Knuckles",
+        "thumbnailUrl": "https://64.media.tumblr.com/aecd54c4acd431a0871b289ae6ec0000/tumblr_inline_og46ypyy3C1taxesp_500.png"
+    }, 
+    {"precio": "Estatura: 100 cm",
+        "edad": "15 años",
+        "title": "Silver",
+        "thumbnailUrl": "https://64.media.tumblr.com/4d947cb08c2de2d25cfbe8cf854f1587/fafffdee7d31d06f-d9/s400x600/e5877db5cf14eaca88f506c363eef13f0bc15e7b.jpg"
+    }, 
+    {"precio": "Estatura: 200 cm",
+        "edad": "20 años",
+        "title": "Big",
+        "thumbnailUrl": "https://assets.mycast.io/characters/big-the-cat-474911-normal.jpg?1599991042"
+    }, 
+    {"precio": "Estatura: 100 cm",
+        "edad": "1 año",
+        "title": "Metal Sonic",
+        "thumbnailUrl": "https://64.media.tumblr.com/7e58015e48970e973c4bab8995dc22f7/458400df3624e673-d5/s1280x1920/498fb89dab65c20586065b85719d206c6e7e2fad.jpg"
+    }, 
+    {"precio": "Estatura: 180 cm",
+        "edad": "30 años",
+        "title": "Vector",
+        "thumbnailUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6Y1xEB6dz9F05aDfc1cHp7wp2CcY2TA-MH-Xa_vnKe5BD6mZCuchRN3sfHyVNGFnwaks&usqp=CAU"
+    }, 
+    {"precio": "Estatura: 5 m",
+        "edad": "15 años",
+        "title": "Omega",
+        "thumbnailUrl": "https://i.pinimg.com/474x/0d/60/a0/0d60a0da03734846ba2f2b24d90c0d11.jpg"
+    }
+]
